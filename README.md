@@ -7,12 +7,12 @@ License Plate Detection Using Deep Learning and the YOLO Algorithm.
 
 *(Train YOLO v5 on a Custom Dataset)*
 
-[<img src="/runs/detect/yolov5-l/f4015d33-vlcsnap-00225.jpg" width="450"/>](/runs/detect/yolov5-l/f4015d33-vlcsnap-00225.jpg)
-[<img src="/runs/detect/yolov5-l/fc260a75-vlcsnap-00220.jpg" width="450"/>](/runs/detect/yolov5-l/fc260a75-vlcsnap-00220.jpg)
-[<img src="/runs/detect/yolov5-l/f9217ea6-C0013.MP4_frame_0.jpg" width="450"/>](/runs/detect/yolov5-l/f9217ea6-C0013.MP4_frame_0.jpg)
-[<img src="/runs/detect/yolov5-l/fe54e4a7-C0007_2.MP4_frame_9250.jpg" width="450"/>](/runs/detect/yolov5-l/fe54e4a7-C0007_2.MP4_frame_9250.jpg)
-[<img src="/runs/detect/yolov5-l/ff1cafc3-C0003.MP4_frame_6250.jpg" width="450"/>](/runs/detect/yolov5-l/ff1cafc3-C0003.MP4_frame_6250.jpg)
-[<img src="/runs/detect/yolov5-l/ffbd3aa4-C0004_2.MP4_frame_0.jpg" width="450"/>](/runs/detect/yolov5-l/ffbd3aa4-C0004_2.MP4_frame_0.jpg)
+[<img src="/runs/detect/yolov5-l/f4015d33-vlcsnap-00225.jpg" width="300"/>](/runs/detect/yolov5-l/f4015d33-vlcsnap-00225.jpg)
+[<img src="/runs/detect/yolov5-l/fc260a75-vlcsnap-00220.jpg" width="300"/>](/runs/detect/yolov5-l/fc260a75-vlcsnap-00220.jpg)
+[<img src="/runs/detect/yolov5-l/f9217ea6-C0013.MP4_frame_0.jpg" width="300"/>](/runs/detect/yolov5-l/f9217ea6-C0013.MP4_frame_0.jpg)
+[<img src="/runs/detect/yolov5-l/fe54e4a7-C0007_2.MP4_frame_9250.jpg" width="300"/>](/runs/detect/yolov5-l/fe54e4a7-C0007_2.MP4_frame_9250.jpg)
+[<img src="/runs/detect/yolov5-l/ff1cafc3-C0003.MP4_frame_6250.jpg" width="300"/>](/runs/detect/yolov5-l/ff1cafc3-C0003.MP4_frame_6250.jpg)
+[<img src="/runs/detect/yolov5-l/ffbd3aa4-C0004_2.MP4_frame_0.jpg" width="300"/>](/runs/detect/yolov5-l/ffbd3aa4-C0004_2.MP4_frame_0.jpg)
 
 ## Installation
 
